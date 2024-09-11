@@ -21,7 +21,7 @@ This extension was developed using Nebulajs and React to add a liquid fill effec
 7. Compress the files inside the 'cluster-liquid-fill-ext' folder and add them to your Qlik Sense environment.
 
 
-## Como contribuir
+## How to contribute
 
 1. Clone the repository.
 2. Create an issue describing the feature you want to add.
