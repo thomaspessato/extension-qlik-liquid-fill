@@ -1,0 +1,13 @@
+{
+  "name": "cluster-liquid-fill",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Thomas Pessato",
+    "email": "tpessato@gmail.com"
+  },
+  "icon": "extension",
+  "preview": "",
+  "type": "visualization",
+  "supernova": true
+}
